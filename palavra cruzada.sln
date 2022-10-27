@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palavra cruzada", "palavra cruzada\palavra cruzada.csproj", "{63FDA86E-A803-4DA6-AEBC-C159832C0782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63FDA86E-A803-4DA6-AEBC-C159832C0782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FDA86E-A803-4DA6-AEBC-C159832C0782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FDA86E-A803-4DA6-AEBC-C159832C0782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FDA86E-A803-4DA6-AEBC-C159832C0782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D681464-A121-47C8-BFAD-D8EB68AF0663}
+	EndGlobalSection
+EndGlobal
